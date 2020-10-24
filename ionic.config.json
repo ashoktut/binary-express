@@ -1,0 +1,7 @@
+{
+  "name": "binary express",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
